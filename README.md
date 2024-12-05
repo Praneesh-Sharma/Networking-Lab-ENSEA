@@ -66,6 +66,4 @@ enseash [exit:0|1005ms] % enseash %
 ## Files in the Repository
 - `main.c`: The main C program implementing the shell.
 - `README.md`: This documentation file.
----
-## Contribution
-This project was made by Praneesh Sharma and Shibaa Naik of ENSEA International Batch
+
