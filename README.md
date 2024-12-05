@@ -1,3 +1,7 @@
+# lab 1 (Shibaa naik|Praneesh sharma)
+
+
+
 # ENSEA Tiny Shell (enseash)
 This project is a tiny shell implementation called `enseash`, developed as part of the
 **Synthesis Practical Work** for the 2nd year of Computer Science at ENSEA. The shell
